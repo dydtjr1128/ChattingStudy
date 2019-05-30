@@ -1,7 +1,7 @@
 # ChattingStudy
 Chatting(Spring boot + kafka + react)
 
-##Introduction
+## Introduction
 
 This architecture is:
 ```text
